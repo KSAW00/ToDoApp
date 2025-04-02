@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: center;
+    background: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
+  button {
+    margin-left: 5px;
+    cursor: pointer;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+  
+  button:hover {
+    opacity: 0.7;
+  }
+  
